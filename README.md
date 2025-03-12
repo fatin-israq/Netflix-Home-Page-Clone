@@ -22,6 +22,11 @@ A static website clone of the Netflix homepage, built using HTML, CSS. This proj
 - **HTML**: For structuring the web page
 - **CSS**: For styling the web page
 
+## Preview
+[Live link - Ignore the Warning!](https://fatin-israq.github.io/Netflix-Home-Page-Clone/)
+
+![Netflix Homepage Clone](Netflix-Homepage.png)
+
 ## Installation
 
 1. Clone the repository:
