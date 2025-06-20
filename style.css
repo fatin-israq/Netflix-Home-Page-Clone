@@ -139,6 +139,11 @@ nav button {
   gap: 16px;
 }
 
+.disclaimer {
+  color: grey;
+  font-weight: 150;
+}
+
 @media screen and (max-width: 600px) {
   .hero-buttons {
     display: flex;
